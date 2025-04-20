@@ -39,4 +39,4 @@ Then open [http://localhost:3000](http://localhost:3000) to see the `<h1>` outpu
 - [x] Clear documentation
 
 ## Proof of Implementation
-![Hello World Output](./screeshot.jpg)
+![Hello World Output](https://github.com/Preye2/hello-react/blob/main/screenshot.jpg)
